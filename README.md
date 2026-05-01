@@ -13,7 +13,9 @@ Sistema desarrollado como parte del Ejercicio 1 de la asignatura Programacion ta
 - Nombre 5
 
 ## 🛠️ Tecnologías utilizadas
-- Python
+- Python 3.13.12
 
 ## 🚀 Instalación y uso
-- ...
+- como ejecutar
+  ´´´bash
+  Python main.py
